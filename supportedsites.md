@@ -501,6 +501,7 @@
  - **gem.cbc.ca**: [*cbcgem*](## "netrc machine")
  - **gem.cbc.ca:live**
  - **gem.cbc.ca:playlist**
+ - **generic**: Generic downloader that works on some sites
  - **Genius**
  - **GeniusLyrics**
  - **GetCourseRu**: [*getcourseru*](## "netrc machine")
@@ -716,6 +717,8 @@
  - **Lnk**
  - **LnkGo**
  - **loc**: Library of Congress
+ - **loom**
+ - **loom:folder**
  - **LoveHomePorn**
  - **LRTStream**
  - **LRTVOD**
@@ -1288,6 +1291,7 @@
  - **SeznamZpravyArticle**
  - **Shahid**: [*shahid*](## "netrc machine")
  - **ShahidShow**
+ - **SharePoint**
  - **ShareVideosEmbed**
  - **ShemarooMe**
  - **ShowRoomLive**
