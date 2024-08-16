@@ -656,10 +656,11 @@
  - **Ketnet**
  - **khanacademy**
  - **khanacademy:unit**
- - **Kick**
+ - **kick:clips**
+ - **kick:live**
+ - **kick:vod**
  - **Kicker**
  - **KickStarter**
- - **KickVOD**
  - **kinja:embed**
  - **KinoPoisk**
  - **Kommunetv**
@@ -691,6 +692,7 @@
  - **Lcp**
  - **LcpPlay**
  - **Le**: 乐视网
+ - **LearningOnScreen**
  - **Lecture2Go**: (**Currently broken**)
  - **Lecturio**: [*lecturio*](## "netrc machine")
  - **LecturioCourse**: [*lecturio*](## "netrc machine")
@@ -1141,7 +1143,6 @@
  - **QuantumTV**: [*quantumtv*](## "netrc machine")
  - **QuantumTVLive**: [*quantumtv*](## "netrc machine")
  - **QuantumTVRecordings**: [*quantumtv*](## "netrc machine")
- - **Qub**
  - **R7**: (**Currently broken**)
  - **R7Article**: (**Currently broken**)
  - **Radiko**
@@ -1518,9 +1519,9 @@
  - **tv5unis**
  - **tv5unis:video**
  - **tv8.it**
- - **TVA**
  - **TVANouvelles**
  - **TVANouvellesArticle**
+ - **tvaplus**: TVA+
  - **TVC**
  - **TVCArticle**
  - **TVer**
